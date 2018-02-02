@@ -1,0 +1,48 @@
+	body {
+ background-image: url('../../resourses/space.jpg');
+	}
+	h2{
+		color:red;
+		text-align:center;
+
+	}
+	p{
+		font-family:verdana;
+		font-size: 1em;
+	}
+	
+	#example1{
+		
+    background: skyblue;
+    
+	}
+	#example2{
+		
+    background: grey;
+    
+	}
+	#example3{
+		
+    background: blue;
+    
+	}
+	#example4{
+		
+    background: pink;
+    
+	}
+	#example5{
+		
+    background: yellow;
+    
+	}
+	#example6 {
+		
+    background: red;
+    
+	}
+	#example7{
+		
+    background: green;
+    
+	}
